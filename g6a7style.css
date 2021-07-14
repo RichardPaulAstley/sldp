@@ -19,8 +19,9 @@
 }
 
 img {
-    display: block;
+    display: table;
 	margin: auto;
 	max-width: 240px;
     max-height: 144px;
 }
+

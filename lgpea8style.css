@@ -19,7 +19,7 @@
 }
 
 img {
-    display: block;
+    display: table;
 	margin: auto;
 	max-width: 384px;
     max-height: 216px;
